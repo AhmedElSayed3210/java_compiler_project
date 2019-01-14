@@ -1,0 +1,12 @@
+{
+"age":22,
+"empty":"",
+"Name":"Ahmed",
+"address":"Zagazig",
+"data":["test","test1"],
+"bool":"true",
+"dataa":{"b":"ddl",
+"xx":55,
+"dataa":{"b":"ddl",
+"xx":55}}
+}
